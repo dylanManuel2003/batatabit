@@ -1,0 +1,17 @@
+.product-cards--container{
+    display: flex;
+    flex-wrap: wrap;
+    width: 930px;
+    margin: 0 auto;
+}
+
+.plans-container--slider{
+    justify-content: center;
+}
+
+.plan-card--ca:hover{
+    cursor: pointer;
+    background-color: #282623;
+    border: 2px solid #F7931A;
+    color: #F7931A;
+}
